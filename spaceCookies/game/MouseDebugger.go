@@ -1,10 +1,10 @@
 package game
 
 import (
-	"github.com/vova616/GarageEngine/engine"
-	"github.com/vova616/GarageEngine/engine/input"
+	"github.com/skarr/GarageEngine/engine"
+	"github.com/skarr/GarageEngine/engine/input"
 	//"log"
-	//"github.com/go-gl/glfw"
+	//"github.com/go-gl/glfw/v3.1/glfw"
 	//c "github.com/vova616/chipmunk"
 	//. "github.com/vova616/chipmunk/vect"
 	"math/rand"

@@ -1,11 +1,11 @@
 package networkOnline
 
 import (
-	"github.com/vova616/GarageEngine/engine"
-	"github.com/vova616/GarageEngine/engine/cr"
+	"github.com/skarr/GarageEngine/engine"
+	"github.com/skarr/GarageEngine/engine/cr"
 	//"Engine/components"
-	"github.com/go-gl/glfw"
-	"github.com/vova616/GarageEngine/engine/input"
+	"github.com/go-gl/glfw/v3.1/glfw"
+	"github.com/skarr/GarageEngine/engine/input"
 	//"log"
 	"github.com/vova616/chipmunk"
 	"github.com/vova616/chipmunk/vect"

@@ -1,7 +1,7 @@
 package components
 
 import (
-	"github.com/vova616/GarageEngine/engine"
+	"github.com/skarr/GarageEngine/engine"
 	//"Engine/input"
 	//"log"
 )

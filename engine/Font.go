@@ -6,7 +6,7 @@ import (
 	"image/color"
 	"image/draw"
 	"io/ioutil"
-	//"github.com/go-gl/glfw"
+	//"github.com/go-gl/glfw/v3.1/glfw"
 	//"gl/glu"
 	//"log"
 	"fmt"

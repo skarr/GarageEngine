@@ -1,9 +1,9 @@
 package components
 
 import (
-	"github.com/go-gl/gl"
+	"github.com/go-gl/gl/v3.3-core/gl"
 	//"image"
-	//"github.com/go-gl/glfw"
+	//"github.com/go-gl/glfw/v3.1/glfw"
 	//"gl/glu"
 	//"log"
 
@@ -11,9 +11,9 @@ import (
 	//"image/png"
 	//"os"
 	//"strconv"
-	//"github.com/go-gl/glfw"
-	"github.com/vova616/GarageEngine/engine"
-	"github.com/vova616/GarageEngine/engine/input"
+	//"github.com/go-gl/glfw/v3.1/glfw"
+	"github.com/skarr/GarageEngine/engine"
+	"github.com/skarr/GarageEngine/engine/input"
 	"github.com/vova616/chipmunk/vect"
 	//"runtime"
 )

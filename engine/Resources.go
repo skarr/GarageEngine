@@ -2,7 +2,7 @@ package engine
 
 import (
 	"fmt"
-	//"github.com/go-gl/gl"
+	//"github.com/go-gl/gl/v3.3-core/gl"
 )
 
 type ResID interface{}

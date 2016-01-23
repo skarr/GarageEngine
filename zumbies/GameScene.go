@@ -2,8 +2,8 @@ package zumbies
 
 import (
 	"fmt"
-	"github.com/vova616/GarageEngine/engine"
-	"github.com/vova616/GarageEngine/engine/components"
+	"github.com/skarr/GarageEngine/engine"
+	"github.com/skarr/GarageEngine/engine/components"
 	_ "image/jpeg"
 	_ "image/png"
 	//"gl"

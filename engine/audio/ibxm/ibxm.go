@@ -1,7 +1,7 @@
 package ibxm
 
 import (
-	"github.com/vova616/GarageEngine/engine/audio"
+	"github.com/skarr/GarageEngine/engine/audio"
 	"github.com/vova616/ibxmgo"
 	"os"
 )

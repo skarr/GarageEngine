@@ -18,7 +18,7 @@ sudo apt-get update
 <br/>
 sudo apt-get install build-essential binutils-gold freeglut3 freeglut3-dev libglew-dev libglfw-dev libxrandr2 libxrandr-dev libglew libglew1.8  
 <br/>
-go get github.com/vova616/GarageEngine	
+go get github.com/skarr/GarageEngine	
 
 ## To-Do list
 Clean project:<br/>
@@ -40,8 +40,8 @@ Comments - lacks tons of it.<br/>
 
 
 ## Dependencies
-github.com/go-gl/gl<br/>
-github.com/go-gl/glfw<br/>
+github.com/go-gl/gl/v3.3-core/gl<br/>
+github.com/go-gl/glfw/v3.1/glfw<br/>
 github.com/vova616/chipmunk<br/>
 "github.com/vova616/freetype-go/freetype"
 
