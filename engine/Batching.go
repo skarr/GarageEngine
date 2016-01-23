@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"lib/gl"
+	//"lib/gl"
 )
 
 var (

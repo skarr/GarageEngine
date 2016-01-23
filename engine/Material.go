@@ -2,7 +2,7 @@ package engine
 
 import (
 	"fmt"
-	"lib/gl"
+	//"lib/gl"
 )
 
 var lastProgram Program

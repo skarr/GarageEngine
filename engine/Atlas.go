@@ -2,7 +2,7 @@ package engine
 
 import (
 	"errors"
-	"lib/gl"
+	//"lib/gl"
 	"image"
 	"image/draw"
 	"log"

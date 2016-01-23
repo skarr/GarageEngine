@@ -1,7 +1,7 @@
 package components
 
 import (
-	"lib/gl"
+	//"lib/gl"
 	//"image"
 	//"lib/glfw"
 	//"gl/glu"

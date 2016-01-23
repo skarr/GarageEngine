@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"lib/gl"
+	//"lib/gl"
 	//"log"
 	"github.com/skarr/GarageEngine/engine/bt"
 	"github.com/skarr/GarageEngine/engine/cr"

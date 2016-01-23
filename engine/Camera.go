@@ -2,7 +2,7 @@ package engine
 
 import (
 	"errors"
-	"lib/gl"
+	//"lib/gl"
 	"github.com/skarr/GarageEngine/engine/input"
 )
 
