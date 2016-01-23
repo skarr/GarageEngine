@@ -16,8 +16,8 @@ var (
 	LoginErrChan chan error
 )
 
-const ServerIP = "localhost:123"
-const ServerLocalIP = "localhost:123"
+const ServerIP = "localhost:3123"
+const ServerLocalIP = "localhost:3123"
 
 type Client struct {
 	engine.BaseComponent

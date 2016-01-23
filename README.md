@@ -53,7 +53,7 @@ Use Behaviour Trees, its better and faster.
 Example in SpaceCookies/game/EnemeyAI.go
 
 ## SpaceCookies
-Mini game to test the engine, it will host server on port 123 then you connect to it.
+Mini game to test the engine, it will host server on port 3123 then you connect to it.
 Make sure your executable file is in the same folder with the data folder.
 
 ## Videos:

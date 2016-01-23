@@ -85,7 +85,7 @@ func (c *Client) OnPanic() {
 }
 
 func StartServer() {
-	addr, err := net.ResolveTCPAddr("tcp", "0.0.0.0:123")
+	addr, err := net.ResolveTCPAddr("tcp", "0.0.0.0:3123")
 	if err != nil {
 		log.Println(err)
 		return
