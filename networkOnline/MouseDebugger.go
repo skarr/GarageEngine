@@ -4,7 +4,7 @@ import (
 	"github.com/skarr/GarageEngine/engine"
 	"github.com/skarr/GarageEngine/engine/input"
 	//"log"
-	"lib/glfw"
+	//"lib/glfw"
 	"github.com/vova616/chipmunk"
 	"github.com/vova616/chipmunk/vect"
 )
