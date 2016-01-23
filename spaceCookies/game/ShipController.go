@@ -3,7 +3,7 @@ package game
 import (
 	"github.com/skarr/GarageEngine/engine"
 	//"Engine/components"
-	//"github.com/go-gl/glfw/v3.1/glfw"
+	//"lib/glfw"
 	"github.com/skarr/GarageEngine/engine/input"
 	//"log"
 	//"fmt"

@@ -1,14 +1,14 @@
 package engine
 
 import (
-	"github.com/go-gl/gl/v3.3-core/gl"
+	"lib/gl"
 	//"log"
 	"github.com/skarr/GarageEngine/engine/bt"
 	"github.com/skarr/GarageEngine/engine/cr"
 	"github.com/skarr/GarageEngine/engine/input"
 	//"os"
 	"fmt"
-	"github.com/go-gl/glfw/v3.1/glfw"
+	"lib/glfw"
 	"github.com/vova616/chipmunk"
 	"github.com/vova616/chipmunk/vect"
 	"math"

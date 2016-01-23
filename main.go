@@ -11,7 +11,7 @@ import (
 	"github.com/skarr/GarageEngine/spaceCookies/server"
 	"github.com/skarr/GarageEngine/zumbies"
 	//"math"
-	//"github.com/go-gl/gl/v3.3-core/gl"
+	//"lib/gl"
 	"os"
 	"runtime"
 	"runtime/pprof"

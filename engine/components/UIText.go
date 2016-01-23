@@ -1,9 +1,9 @@
 package components
 
 import (
-	"github.com/go-gl/gl/v3.3-core/gl"
+	"lib/gl"
 	//"image"
-	//"github.com/go-gl/glfw/v3.1/glfw"
+	//"lib/glfw"
 	//"gl/glu"
 	//"log"
 
@@ -11,7 +11,7 @@ import (
 	//"image/png"
 	//"os"
 	//"strconv"
-	//"github.com/go-gl/glfw/v3.1/glfw"
+	//"lib/glfw"
 	"github.com/skarr/GarageEngine/engine"
 	"github.com/skarr/GarageEngine/engine/input"
 	"github.com/vova616/chipmunk/vect"

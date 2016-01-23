@@ -2,7 +2,7 @@ package engine
 
 import (
 	"errors"
-	"github.com/go-gl/gl/v3.3-core/gl"
+	"lib/gl"
 	"image"
 	"image/draw"
 	"log"
