@@ -4,7 +4,7 @@ import (
 	"github.com/skarr/GarageEngine/engine"
 	"github.com/skarr/GarageEngine/engine/cr"
 	//"Engine/components"
-	//"lib/glfw"
+	"github.com/go-gl-legacy/glfw/tree/master/v2.7/glfw"
 	"github.com/skarr/GarageEngine/engine/input"
 	//"log"
 	"github.com/vova616/chipmunk"

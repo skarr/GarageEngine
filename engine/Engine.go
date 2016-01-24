@@ -8,7 +8,7 @@ import (
 	"github.com/skarr/GarageEngine/engine/input"
 	//"os"
 	"fmt"
-	//"lib/glfw"
+	"github.com/go-gl-legacy/glfw/tree/master/v2.7/glfw"
 	"github.com/vova616/chipmunk"
 	"github.com/vova616/chipmunk/vect"
 	"math"

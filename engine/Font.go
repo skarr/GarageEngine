@@ -6,7 +6,7 @@ import (
 	"image/color"
 	"image/draw"
 	"io/ioutil"
-	//"lib/glfw"
+	"github.com/go-gl-legacy/glfw/tree/master/v2.7/glfw"
 	//"gl/glu"
 	//"log"
 	"fmt"
