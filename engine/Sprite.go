@@ -1,7 +1,7 @@
 package engine
 
 import (
-	//"lib/gl"
+	"github.com/go-gl-legacy/gl"
 	//"gl/glu"
 	//"log"
 	//"image/png"

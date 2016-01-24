@@ -2,7 +2,7 @@ package engine
 
 import (
 	"fmt"
-	//"lib/gl"
+	"github.com/go-gl-legacy/gl"
 )
 
 var lastProgram Program

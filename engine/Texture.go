@@ -2,7 +2,7 @@ package engine
 
 import (
 	"errors"
-	//"lib/gl"
+	"github.com/go-gl-legacy/gl"
 	"image"
 	"image/color"
 	"image/gif"

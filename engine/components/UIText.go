@@ -1,7 +1,7 @@
 package components
 
 import (
-	//"lib/gl"
+	"github.com/go-gl-legacy/gl"
 	//"image"
 	//"lib/glfw"
 	//"gl/glu"
