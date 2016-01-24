@@ -3,7 +3,7 @@ package components
 import (
 	"github.com/go-gl-legacy/gl"
 	//"image"
-	"github.com/go-gl-legacy/glfw/tree/master/v2.7/glfw"
+	"github.com/go-gl-legacy/glfw/v2.7/glfw"
 	//"gl/glu"
 	//"log"
 
@@ -11,7 +11,7 @@ import (
 	//"image/png"
 	//"os"
 	//"strconv"
-	"github.com/go-gl-legacy/glfw/tree/master/v2.7/glfw"
+	"github.com/go-gl-legacy/glfw/v2.7/glfw"
 	"github.com/skarr/GarageEngine/engine"
 	"github.com/skarr/GarageEngine/engine/input"
 	"github.com/vova616/chipmunk/vect"
